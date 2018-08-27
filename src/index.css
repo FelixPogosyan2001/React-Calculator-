@@ -1,5 +1,11 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
+  height: 100%;
+  margin: 0;
   font-family: sans-serif;
+}
+html {
+    height: 100%;
 }
